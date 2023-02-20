@@ -1,6 +1,6 @@
-<!-- Question 1 (List the symbols for each of the below Javascript operators) -->
+Question 1 (List the symbols for each of the below Javascript operators)
 
-<!-- Arithmetic Operators -->
+* Arithmetic Operators
 Addition = +
 Subtraction = -
 Multiplication = *
@@ -10,13 +10,13 @@ Modulus = %
 Increment = ++
 Decrement = --
 
-<!-- Assignment Operators -->
+* Assignment Operators
 Equals sign (=)
 Addition assignment (+=)
 Multiply assignment (*=)
 
-<!-- Comparison Operators -->
-* Rational operators *
+* Comparison Operators
+Rational operators
 Greater than (>)
 greater than or equal to (>=)
 less than (<)
@@ -27,12 +27,12 @@ loose equality operator (==)
 Not Equals operator (!==)
 
 
-<!-- Logical Operators -->
+* Logical Operators
 Logical AND (&&)
 Logical OR (||)
 Logical NOT (!)
 
-<!-- Bitwise Operators -->
+* Bitwise Operators
 bitwise AND (&)
 bitwise inclusive OR (|)
 bitwise exclusive OR (^)
@@ -41,13 +41,13 @@ right shift (>>)
 bitwise NOT / unary (~)
 
 
-<!-- Question 2 (For each JavaScript Operator, write 2 examples.) -->
+Question 2 (For each JavaScript Operator, write 2 examples.)
 
 let a = 10;
 let b = 3;
 let c = 6;
 
-<!-- Arithmetic Operators -->
+* Arithmetic Operators
 
 Addition
 console.log (a + b);
@@ -82,7 +82,7 @@ console.log (a--);
 console.log (b--);
 
 
-<!-- Assignment Operators -->
+* Assignment Operators
 Equals sign (=)
 let a = 10;
 let b = 3;
@@ -95,8 +95,8 @@ Multiply assignment (*=)
 a *= 10;
 b *= 3;
 
-<!-- Comparison Operators -->
-* Rational operators *
+* Comparison Operators
+Rational operators 
 
 Greater than (>)
 console.log( a >  5); //retuns True
@@ -119,7 +119,7 @@ Not Equals operator (!==)
 console.log(a !== 1); // false
 
 
-<!-- Question 4 (What is the result when the following program is executed)-->
+Question 4 (What is the result when the following program is executed)
 
 1
 8
